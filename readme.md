@@ -20,4 +20,4 @@ $\color{red}{NKU同学参考的话请给STAR}$
 老规矩，在NKUG网自救资料那个仓库里。
 
 # 大作业
-上传了我的作业和参考文件，我的[博客]()提供了一些参考。
+上传了我的作业和参考文件，我的[博客](https://tephrocactushc.github.io/post/2e35672.html)提供了一些参考。
