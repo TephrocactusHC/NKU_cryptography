@@ -10,6 +10,7 @@ $\color{red}{NKU同学参考的话请给STAR}$
 - [友链4](https://github.com/shesl-meow/nkcrypto)
 - [友链5](https://github.com/caijiqhx/crypto_lab)
 - [友链6](https://github.com/Rainefly/Cryptology)
+- 斌哥应该是也有一套代码，但是我不确定他那个人家同不同意我放上来。
 
 # NOTICE!
 注意，因为基本上每个年级到了本学期的课都实在是太多了，因此大多数的代码都不具有原创性，而且很多代码故意糊弄，不一定能跑。**因此，尤其不要直接COPY下来提交，这会使你陷入万劫不复的境地。**
