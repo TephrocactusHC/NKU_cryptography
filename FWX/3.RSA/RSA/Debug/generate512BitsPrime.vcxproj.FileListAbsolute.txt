@@ -1,0 +1,2 @@
+C:\Users\Nirvana\Desktop\generate512BitsPrime\Debug\generate512BitsPrime.exe
+D:\Study\terms\3.Junior\FirstSemester\密码学（古力）\Expertation\3\RSA\Debug\generate512BitsPrime.exe
